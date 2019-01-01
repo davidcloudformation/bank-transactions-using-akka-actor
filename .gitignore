@@ -1,0 +1,9 @@
+*node_modules
+*project
+*jar
+*class
+.idea
+*target
+#.gitignore
+
+
